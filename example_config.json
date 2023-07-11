@@ -1,0 +1,9 @@
+{
+  "bot_api_key": "telegrambotkey",
+  "database_host": "dbhost",
+  "database_user": "dbuser",
+  "database_password": "dbpassword",
+  "database_name": "dbname",
+  "database_port": 1234,
+  "database_sslmode": "disable"
+}
